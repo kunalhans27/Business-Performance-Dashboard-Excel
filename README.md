@@ -1,4 +1,4 @@
-# Business-Performance-Dashboard-Excel
+# Business & Sales Analysis-Dashboard-Excel
 Interactive Excel Dashboard analyzing business KPIs, performance trends, and actionable insights.
 
 ## Project Overview
